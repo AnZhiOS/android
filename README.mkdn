@@ -1,0 +1,17 @@
+Anzhi
+===========
+
+Getting Started
+---------------
+
+To get started with Android/AnZhi, you'll need to get
+familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
+
+To initialize your local repository using the AnZhi trees, use a command like this:
+
+    repo init -u git://github.com/AnZhiOS/android.git -b cm-11.0
+
+Then to sync up:
+
+    repo sync
+
